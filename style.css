@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+    color: #aef703;
+    font-family: 'Courier New';
+}
+.container {
+    padding: 10px;
+    border: 2px solid #f7e703ea;
+    border-radius: 15px;
+    box-shadow: 0 0px 30px rgba(0, 198, 248, 0.3);
+    box-shadow: 0 0px 20px rgb(255, 0, 234);
+    font-size: 40px;
+    cursor: pointer;
+}
